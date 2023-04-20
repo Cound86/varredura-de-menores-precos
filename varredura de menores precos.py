@@ -5,6 +5,7 @@ from selenium.webdriver.common.by import By
 import os
 from time import sleep
 
+# teste de commit bugando #
 
 driver = webdriver.Chrome(service=ChromeService(
     ChromeDriverManager().install()))
